@@ -1,2 +1,2 @@
-# http://MalakYU.github.io
+# http://MalakYU.github.io/tipCalculator
 Tip Calculator
